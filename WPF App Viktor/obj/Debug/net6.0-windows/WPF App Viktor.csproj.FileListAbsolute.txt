@@ -1,0 +1,25 @@
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\bin\Debug\net6.0-windows\WPF App Viktor.exe
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\bin\Debug\net6.0-windows\WPF App Viktor.deps.json
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\bin\Debug\net6.0-windows\WPF App Viktor.runtimeconfig.json
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\bin\Debug\net6.0-windows\WPF App Viktor.dll
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\bin\Debug\net6.0-windows\WPF App Viktor.pdb
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\WPF App Viktor.csproj.AssemblyReference.cache
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\App.g.cs
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\WPF App Viktor_MarkupCompile.cache
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\WPF App Viktor_MarkupCompile.lref
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\WPF App Viktor.g.resources
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\WPF App Viktor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\WPF App Viktor.AssemblyInfoInputs.cache
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\WPF App Viktor.AssemblyInfo.cs
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\WPF App Viktor.csproj.CoreCompileInputs.cache
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\WPF App Viktor.dll
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\refint\WPF App Viktor.dll
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\WPF App Viktor.pdb
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\WPF App Viktor.genruntimeconfig.cache
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\ref\WPF App Viktor.dll
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\Window1.g.cs
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\Window1.baml
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\Window2.g.cs
+D:\Programs\C#\WPF App Viktor\WPF App Viktor\obj\Debug\net6.0-windows\Window2.baml

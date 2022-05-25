@@ -1,0 +1,25 @@
+﻿<Window x:Class="WPF_App_Viktor.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_App_Viktor"
+        mc:Ignorable="d"
+        Title="Game Stats" Height="450" Width="800" Background="#FF008BFF">
+    <Border>
+        <Canvas>
+            <TextBlock Height="132" Canvas.Left="107" Canvas.Top="39" FontSize="16"><Run Text="Your Results"/><LineBreak/><Run/><LineBreak/><Run Text="Hits:"/><LineBreak/><Run/><LineBreak/><Run Text="Hits per second:"/><LineBreak/><Run/></TextBlock>
+            <TextBlock Name="Hits" Canvas.Left="150" Canvas.Top="77" Width="54" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+            <Button Canvas.Left="292" Canvas.Top="282" Height="73" Width="233" FontSize="40" Click="Button_Click">HOME
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="5"/>
+                    </Style>
+                </Button.Resources>
+            </Button>
+
+            <TextBlock Name="HPS" Canvas.Left="225" Canvas.Top="121" Width="59" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.279,-3.492" FontSize="16" FontWeight="Bold" Height="32"/>
+
+        </Canvas>
+    </Border>
+</Window>
